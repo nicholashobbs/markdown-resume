@@ -1,49 +1,75 @@
-Sonya Sawtelle
+**Nicholas Hobbs**
 ======
 
-#### Data enthusiast with a strong background in math, science and programming. 
-###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
+#### Data Scientist experienced in machine learning, data engineering, and full stack development. Proficient in natural language processing, data modeling, graph databases, and cloud-based data operations for continuous integration. Particularly interested in web security, large language models, data visualization, and educational technologies
+
+###### [ [nicholashobbs.github.io](http://nicholashobbs.github.io) ] . [ nicholas.r.hobbs@gmail.com ]
 
 
-Education
+**Education**
 ---------
-**Ph.D. program in Applied Physics, Yale University** (2012-present)
+**Mathematics and Statistics BS** - *University of Utah* - Salt Lake City, Utah (2012-2017)
 
-- Research on transport in metal nanostructures. 
-- Coursework in physics, engineering, and statistics.
+- **Coursework**: Cryptography, Number Theory, Linear Models, Stochastic Processes, Statistical Inference, Probability, Statistical Software (SAS, SPSS, MATLAB)
+- **Mathematics Exchange Program** - *Hong Kong University of Science and Technology* (2013-2014)
+    - **Coursework**: Linear Algebra, Statistical Methods, Intermediate Mandarin
+- **Intensive Chinese Language** - *Nankai University* (2014)
+    - HSK 5 level proficiency
 
-**B.S. in Physics, Indiana University** (2008-2011)
-
-- Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
-
-**MOOCs** (ongoing)
-
-- Machine Learning (Stanford, Andrew Ng)
-
-Experience
+**Experience**
 ---------
-**Independent Researcher, Yale University** (2012-present, New Haven CT)
+**Software Engineer** - *Off Piste* - Salt Lake City, UT (2021)
 
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
+- Designed and built from scratch a full stack platform in Rust, web3.js, d3 and React for dated futures on digital assets
+- Implemented smart contracts representing lending pool, margin account, and controller and assisted with design and implementation of customer dashboard
+- Dockerized workflow and developed internal documentation to minimize friction working with remote asynchronous development team
 
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
+**Data Scientist** - *OpenLattice* - Redwood City, CA (2019-2020)
 
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+- Built new pipeline and internal python packages for custom recurring data integrations from various legacy databases using pandas 
+- Addressed false positive and speed issues with deep learning data linkage model by implementing heuristic improvements from a causal modeling approach
+- Created custom interactive dashboards for OpenLattice customers to view and analyze their data on cloud platform
+- Worked with Backend Engineering team as an intern for my last few months in addition to Data Science role to learn software engineering principles and design custom api endpoints in Kotlin to better suit needs of customers and data scientists
+- Built a custom package using python for generating demo data with complex interrelations based on real client summary statistics
 
-Skills
-------
-**Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
+**Security Consultant** - *Evolve Security* - Chicago, IL (2018-2019)
 
-**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
+- Performed full scale end-to-end security audits and compliance consulting for customers including large non-profit organizations, small startups, law firms, and real estate agents
+- Visited customers on-site, testing physical security, wifi (aircrack-ng), and performing social engineering assessments
+- Used automated and manual tools to test online assets including nmap, nessus, and nikto 
+- Wrote reports on findings, presented to clients, and suggested remediations for vulnerabilities
 
-Awards
-------
-- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
-- **IU Founders Scholar**, Indiana University (2012)
-- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
+**Data Scientist** - *Sorenson Impact Center* -  Salt Lake City, UT (2017-2018)
 
-Projects
+- Used causalimpact package in R to model factors contributing to prison recidivism in Utah following Justice Reinvestment Initiative
+- Led project for the innauguration of First Star Academy at University of Utah analyzing costs and benefits to the state of providing former foster youth who age out of state custody with college benefits
+- Assisted with project analyzing early childhood education costs to Pacific Northwest families 
+- Helped source data and perform relevant analysis for various student-led impact investing projects
+
+**Projects**
 --------
-**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
 
-- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
+**Desierto Florido** - Valparaiso, Chile (2022)
+
+- Cofounded a collective for artists and creatives to build community and make money online, rejected from Startup Chile
+
+**Ample Insight** - Remote (2019)
+
+- Worked on a framework for A/B testing and causal analysis of user interactions on large scale website using docker, redis, and postgres
+- Processing data and implementing autocomplete for input box using trie to standardize employee data input to ingredients purchasing list
+
+**Nightfall AI** - San Francisco, CA (2019)
+
+- Built custom data annotation flask app to more than 10x efficiency of data annotation experts using regex and unique tagging dashboard
+- Assisted Machine Learning Engineers with research and implementation of BERT to detect employees leaking secrets or using profanity on slack or github
+
+**Kleimann Communications** - San Francisco, CA (2018-2019)
+
+- Wrote custom script in VBA to parse commented .docx transcripts into easily searchable data tables for legal professionals to derive insights from expert testimony on student loans
+- Built simple custom dashboard to allow for simple analyses with web interface
+
+**ILRI** - Remote (2018)
+
+- Worked on a model attempting to determine whether ground-level images taken by pastoralists could improve prediction of forage quality for a specific geographic location as opposed to purely NDVI based models using ResNet CNN architecture
+
+
