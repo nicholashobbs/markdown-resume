@@ -18,7 +18,14 @@
 
 **Experience**
 ---------
-**Software Engineer** - *Off Piste* - Salt Lake City, UT (2021)
+**Data Analyst, Business Intelligence** - *Red Rock Brewing* - Salt Lake City, UT (2023)
+
+- Built a data pipeline from scratch to integrate data from various sources including custom built forms, POS, inventory, and accounting systems
+- Implemented custom data dashboards and forms for salespeople and delivery drivers to update inventory and record business interactions using Postgres and React
+- Identified inefficiencies in disorganized processes and helped COO develop new processes for managing inventory, sales, and team members
+
+
+**Software Engineer** - *Off Piste* - Salt Lake City, UT (2021-2022)
 
 - Designed and built from scratch a full stack platform in Rust, web3.js, d3 and React for dated futures on digital assets
 - Implemented smart contracts representing lending pool, margin account, and controller and assisted with design and implementation of customer dashboard
